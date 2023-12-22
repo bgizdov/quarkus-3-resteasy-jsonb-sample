@@ -1,4 +1,4 @@
-# example-app
+# quarkus-3-resteasy-jsonb-sample
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
